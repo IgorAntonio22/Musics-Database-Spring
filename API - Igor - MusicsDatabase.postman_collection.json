@@ -1,0 +1,60 @@
+{
+	"info": {
+		"_postman_id": "56361926-24bf-49e6-bb10-afeef848a1a4",
+		"name": "API - Igor - MusicsDatabase",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33626128"
+	},
+	"item": [
+		{
+			"name": "Artista",
+			"item": [
+				{
+					"name": "incluirArtista",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "getInformacoesDoArtista",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Musica",
+			"item": [
+				{
+					"name": "incluirMusica",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "getMusicas",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "getMusicasPeloNomeDoArtista",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
