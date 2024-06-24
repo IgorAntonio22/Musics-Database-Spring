@@ -1,4 +1,4 @@
-## Technologies Used
+# Technologies Used
 
 - **Spring Boot**: Framework for creating robust Java applications.
 - **Spring Data JPA**: Simplifies data access with Hibernate as the JPA provider.
